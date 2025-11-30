@@ -1,0 +1,7 @@
+{
+  "name": "Wizlo - Free spanish through english",
+  "description": "Learn Spanish through English easily with daily micro-learning, games, and realistic audio. Track your progress and master new sentences every day.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
